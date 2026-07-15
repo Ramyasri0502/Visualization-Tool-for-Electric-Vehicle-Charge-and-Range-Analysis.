@@ -194,8 +194,10 @@ Global EV market analytics
 
 👨‍💻 Developed By
 Team Members
-G . Naga Lakshmi
-P.  Jyothi
+R.Ramyasri
+P.Mounika
+P.SaiSanjana
+P.Harini
 
 Department: Electronics and Communication Engineering (ECE)
 
